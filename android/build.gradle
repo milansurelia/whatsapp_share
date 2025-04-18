@@ -22,7 +22,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    nameSpace "com.example.whatsapp_share"
+    namespace "com.example.whatsapp_share"
     compileSdkVersion 33
 
     defaultConfig {
